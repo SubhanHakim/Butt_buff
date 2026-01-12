@@ -46,7 +46,7 @@ const Hero: React.FC = () => {
 
                 {/* Button */}
                 <a
-                    href="https://pump.fun"
+                    href="https://pump.fun/coin/sfqdqfVZofhEyZkJuveU2bsCCop1AR7abr3ym1zpump"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group relative px-12 py-6 bg-white text-black text-2xl md:text-3xl font-display uppercase tracking-wider hover:bg-black hover:text-white transition-all duration-300 border-4 border-white mt-8 hover:scale-105 active:scale-95"

@@ -12,7 +12,7 @@ const Community: React.FC = () => {
 
                     <div className="flex flex-col md:flex-row gap-8 z-10 w-full max-w-lg px-4 justify-center">
                         {/* X */}
-                        <a href="https://x.com" target="_blank" rel="noopener noreferrer" className="flex-1 group bg-black text-white p-8 border-4 border-white hover:bg-white hover:text-black transition-all duration-300 flex flex-col items-center gap-4 cursor-pointer">
+                        <a href="https://x.com/buttpuff_?s=11&t=RhEbVKiipjrmWTbsvZD5ZA" target="_blank" rel="noopener noreferrer" className="flex-1 group bg-black text-white p-8 border-4 border-white hover:bg-white hover:text-black transition-all duration-300 flex flex-col items-center gap-4 cursor-pointer">
                             <svg viewBox="0 0 24 24" fill="currentColor" className="w-16 h-16 group-hover:scale-110 transition-transform">
                                 <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
                             </svg>
