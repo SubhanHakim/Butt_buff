@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Titan One', cursive;
+  --font-body: 'Nunito', sans-serif;
+}
